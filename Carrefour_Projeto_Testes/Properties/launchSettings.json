@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Carrefour_Projeto_Testes": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
